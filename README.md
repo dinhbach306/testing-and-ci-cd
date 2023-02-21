@@ -11,4 +11,4 @@
 
 ### Connect me via: hoang.nguyenthe@gmail.com
 
-#### Copyright &#169; 2023 giáo.làng
+#### Copyright &#169; 2023 Bạch.Dinh
