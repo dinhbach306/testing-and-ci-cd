@@ -9,6 +9,6 @@
 * Source code in Java & using JUnit
 ![source code with junit](https://github.com/doit-now/mathutil-ant-se1615/blob/main/screenshots/source-code-with-junit.png)
 
-### Connect me via: hoang.nguyenthe@gmail.com
+### Connect me via: dinhdev.3006@gmail.com
 
 #### Copyright &#169; 2023 Bạch.Dinh
